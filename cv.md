@@ -19,7 +19,7 @@ To obtain a position in an IT company where I can effectively put into practice 
 
 ### Personal skills
 * responsibility, systematic approach to solving problems 
-* flexibility, great appetite to learning and quick digestion of new information
+* flexibility, great appetite for learning and quick digestion of new information
 * sociability, good interpersonal skills
 * analytical thinking
 * attention to detail
@@ -49,7 +49,7 @@ Electrical engineer (Specialist Degree)
 National Technical University of Ukraine “Kyiv Polytechnic Institute”
 Faculty of Electric Power Engineering and Automation
 
-## LANGUEAGE
+## LANGUAGE
 
 * english - intermediate
 * ukrainian - native
