@@ -1,0 +1,17 @@
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+}
+
+.avatar {
+  width: 200px;
+  margin-left: 0;
+  margin-right: 0;
+  display: block;
+}
+
+.header {
+  display: flex;
+  text-align: left;
+}
